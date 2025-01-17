@@ -1,0 +1,21 @@
+body{
+    background-color: #F1EDE4;
+}
+.bg-grey{
+    background-color: #EAE3D7;
+}
+.bg-fruit {
+    background-color: #D95062;
+}
+.bg-vegetable {
+    background-color: #9DC484;
+}
+.bg-dairy {
+    background-color: #6699cc;
+}
+.bg-baked {
+    background-color: #e09540;
+}
+.bg-snack {
+    background-color: #B85177;
+}
